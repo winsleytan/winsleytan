@@ -11,7 +11,7 @@ I'm originally from the vibrant city of Penang in Malaysia—the largest island 
 ## 💻 Tech Interests
 I have a deep passion for **web development**. Currently, I am working on my first website, drawing inspiration from numerous Instagram Reels. This project has allowed me to explore various aspects of web development, including front-end design, back-end integration, and user experience optimization. I am excited to continue learning and improving my skills in this field, and I look forward to creating more innovative and engaging web applications in the future.
 
-## 🎮 Why Web Development?
+## 🌐 Why Web Development?
 Web development captivates me because it merges creativity with technology. The ability to design and build interactive websites allows me to express my ideas and bring them to life. From crafting visually appealing layouts to developing seamless user experiences, every aspect of web development offers a platform for innovation and problem-solving. The dynamic nature of the web ensures that there is always something new to learn and explore, making it an exciting and ever-evolving field. This continuous learning process and the opportunity to create impactful digital experiences are what drive my passion for web development.
 
 ## 🤝 Let's Collaborate
