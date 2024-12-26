@@ -6,7 +6,7 @@
 
 
 ## 🌍 About Me
-I'm originally from the vibrant city of Penang in Malaysia—the largest island city in MY, intriguing proboscis monkeys, and majestic orangutans. Now, I'm immersing myself in the world of Computer Science as a secondary school tech student at Jit Sin High School.
+I'm originally from the vibrant city of Penang in Malaysia—the largest island city in MY, a high degree of urbanization and industrialization and is one of the key economic development centers in Malaysia. Now, I'm immersing myself in the world of Computer Science as a secondary school tech student at Jit Sin High School.
 
 ## 💻 Tech Interests
 I have a deep passion for **web development**. Currently, I am working on my first website, drawing inspiration from numerous Instagram Reels. This project has allowed me to explore various aspects of web development, including front-end design, back-end integration, and user experience optimization. I am excited to continue learning and improving my skills in this field, and I look forward to creating more innovative and engaging web applications in the future.
