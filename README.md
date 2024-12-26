@@ -8,14 +8,6 @@
 ## 🌍 About Me
 I'm originally from the vibrant city of Penang in Malaysia—the largest island city in MY, intriguing proboscis monkeys, and majestic orangutans. Now, I'm immersing myself in the world of Computer Science as a secondary school tech student at Jit Sin High School.
 
-<!-- ## 🎓 Education
-- **Sains Komputer**  
-  , China
-- **Japanese Language Studies**  
-  1.5 years at a Language School in Tokyo, Japan
-- **Master's student in Computer Science**  
-  University of Aizu, Japan -->
-
 ## 💻 Tech Interests
 I have a deep passion for **web development**. Currently, I am working on my first website, drawing inspiration from numerous Instagram Reels. This project has allowed me to explore various aspects of web development, including front-end design, back-end integration, and user experience optimization. I am excited to continue learning and improving my skills in this field, and I look forward to creating more innovative and engaging web applications in the future.
 
@@ -50,7 +42,7 @@ Whether you're passionate about technology, a fellow game development enthusiast
 </picture>  
 
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22bow4kqejhha4clw3nrdw4cq&count=1)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31tjhl4dzilbepoxlcvu62kqb5na&count=1)
 
 <img src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" width="280">
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
@@ -60,22 +52,22 @@ Whether you're passionate about technology, a fellow game development enthusiast
 
 <p align="center"> 
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png" alt="csharp" width="40" height="40"/> 
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-logo-icon-download-in-svg-png-gif-file-formats--programming-langugae-language-pack-logos-icons-1175208.png" alt="html" width="40" height="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="git" width="40" height="40"/> 
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/2048px-CSS3_logo.svg.png" alt="css" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434" alt="unity" width="40" height="40"/> 
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png?20180502235434" alt="php" width="40" height="40"/> 
   </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> 
-          <img src="https://education.oracle.com/file/general/p-80-java.png" alt="unreal" width="40" height="40"/> 
+          <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" alt="java" width="40" height="40"/> 
   </a> 
 </p>
 
-![](https://komarev.com/ghpvc/?username=huiishan99&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=winsleytan&color=brightgreen)
 
 </div>
