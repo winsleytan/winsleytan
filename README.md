@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+const nextConfig = {
+  images: {
+    dangerouslyAllowSVG: true,
+    remotePatterns: [
+      {
+        protocol: "https",
+        hostname: "github-readme-stats.vercel.app",
+      },
+      {
+        protocol: "https",
+        hostname: "github-readme-streak-stats.herokuapp.com",
+      },
+    ],
+  },
+};
+
+export default nextConfig;
